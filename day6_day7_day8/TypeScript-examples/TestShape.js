@@ -1,0 +1,11 @@
+"use strict";
+exports.__esModule = true;
+var Circle_1 = require("./Circle");
+var Triangle_1 = require("./Triangle");
+var shape = null;
+var c = new Circle_1.Circle();
+var t = new Triangle_1.Triangle();
+shape = c;
+shape.draw();
+shape = t;
+shape.draw();

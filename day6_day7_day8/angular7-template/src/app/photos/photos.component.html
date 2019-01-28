@@ -1,0 +1,27 @@
+<div class="container">
+  
+      <div class="row">
+        <h2>{{title}}</h2>
+      
+        <table class="table table-hover table-bordered table-stripped table-responsive">
+          <thead>
+     <tr>
+      <th>PHOTO ID</th>
+      <th>ALBUM ID</th>
+      <th>TITLE</th>
+      <th>URL</th>
+      <th>THUMBNAIL</th>
+      </tr>
+      </thead>
+    <tbody>
+    <tr *ngFor="let p of photos">
+        <td>{{p.id}}</td>
+       <td>{{p.albumId}}</td>
+        <td>{{p.title}}</td>
+        <td>{{p.url}}</td>
+      <td><img src={{p.thumbnailUrl}} /></td>
+     </tr>
+    </tbody>
+ </table>
+</div>
+</div>

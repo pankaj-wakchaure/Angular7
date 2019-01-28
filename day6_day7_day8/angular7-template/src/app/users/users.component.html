@@ -1,0 +1,63 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+</div>
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+
+  <!-- Links -->
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" [routerLink]="['list']">Users List</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" [routerLink]="['table']">Users Table</a>
+    </li>
+        
+  </ul>
+</nav>
+
+<div class="container" *ngIf="user">
+  <table class="table table-hover table-striped table-bordered table-responsive">
+    <caption>{{title}}</caption>
+
+
+
+    <tbody>
+      <tr>
+        <th>USER ID</th>
+        <td>{{user.id}}</td>
+      </tr>
+      <tr>
+        <th>NAME</th>
+        <td>{{user.name}}</td>
+      </tr>
+      <tr>
+        <th>EMAIL</th>
+        <td>{{user.email}}</td>
+      </tr>
+      <tr>
+        <th>CITY</th>
+        <td>{{user.address.city}}</td>
+      </tr>
+      <tr>
+        <th>ZIPCODE</th>
+        <td>{{user.address.zipcode}}</td>
+      </tr>
+      <tr>
+
+        <th>COMPANY</th>
+
+        <td>{{user.company.name}}</td>
+      </tr>
+
+
+    </tbody>
+
+  </table>
+
+</div>
+
+
+<div class="container">
+<router-outlet></router-outlet>
+</div>

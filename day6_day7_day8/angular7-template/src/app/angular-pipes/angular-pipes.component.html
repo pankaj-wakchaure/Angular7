@@ -1,0 +1,57 @@
+<div class="container">
+  
+  
+  Today is :{{time|async}}
+<br/><br/>
+Select No of rows:
+<input type="number" name="name"  [min]="1" max="{{employees.length}}" [(ngModel)]="rows">
+
+<br/><br/>
+Search Text:
+<input type="text" name="name" [(ngModel)]="searchText">
+
+
+<div class="row">
+
+<table class="table table-bordered table-striped table-hover table-responsive">
+<caption> <h3>  {{title}}</h3>  </caption>
+<thead>
+<tr>
+<th (click)="sort('id')" >ID</th>
+<th (click)="sort('name')">NAME</th>
+<th (click)="sort('salary')">SALARY AS NUMBER</th>
+<th (click)="sort('salary')">SALARY AS CURRENCY</th>
+<th (click)="sort('city')">CITY</th>
+<th (click)="sort('age')">AGE</th>
+<th (click)="sort('gender')">GENDER</th>
+<th (click)="sort('dob')">DOB</th>
+<th (click)="sort('pan')">PAN</th>
+<th (click)="sort('mobile')">MOBILE</th>
+</tr>
+</thead>
+
+<tbody>
+<tr *ngFor="let e of employees|slice:0:rows|orderBy:sortColumn:reverse|filter:searchText">
+<td>{{e.id}}</td>
+<td>{{e.name|titlecase}}</td>
+<td>{{e.salary|number:'8.3-4'}}</td>
+<td>{{e.salary|currency:'INR'}}</td>
+<td>{{e.city|uppercase}}</td>
+<td>{{e.age}}</td>
+<td>{{e.gender|gender}}</td>
+<td>{{e.dob|date:'dd-MMM-yyyy'}}</td>
+<td>{{e.pan|lowercase|slice:0:2}}XXXXXXX{{e.pan|lowercase|slice:8:10}}</td>
+<td>XXXXXXX{{e.mobile|slice:8:10}}</td>
+    
+</tr>
+
+</tbody>
+</table>
+<pre>
+<ol>
+<li *ngFor="let entry of employees[0]|keyvalue">{{entry.key}} =>{{entry.value}}</li>
+</ol>
+Variable :{{0.15|percent}}
+</pre>
+</div>
+</div>

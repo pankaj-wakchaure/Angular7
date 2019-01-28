@@ -1,0 +1,76 @@
+<div class="container">
+<h2>{{title}}</h2>
+
+<input type="checkbox" [(ngModel)]="show"/> Show/Hide Color Lit
+  <div class="row"  [ngClass]="'A B C D'" >
+    <h3>My Favourate Colors</h3>
+  </div>
+   <div *ngIf="show; else invalid"  [ngClass]="['A','B','C','D']">
+    <ul>
+    <li *ngFor="let c of colors"   [ngStyle]="{'color':c}"> {{c}} </li>
+   </ul>
+  </div>
+  <hr/>
+  <div class="row"  [ngClass]="{'A':show,'B':show,'C':hide,'D':hide}">
+      <h3>Select Day :<input type="number" [(ngModel)]="day"  min="{{min}}" [max]="max"></h3>
+    </div>
+     <div>
+    
+<div [ngSwitch]="day">
+    <div *ngSwitchCase="1">MONDAY</div>
+    <div *ngSwitchCase="2">TUESDAY</div>
+    <div *ngSwitchCase="3">WEDENESDAY</div>
+    <div *ngSwitchCase="4">THURSDAY</div>
+    <div *ngSwitchCase="5">FRIDAY</div>
+    <div *ngSwitchCase="6">SATURDAY</div>
+    <div *ngSwitchCase="7">SUNDAY</div>
+    <div *ngSwitchDefault>I don't know What DAY it is?</div>
+  </div>
+</div>
+<input type="button"  (click)="showHide()" value="Show/Hide Name Form"/>
+
+
+<div *ngIf="hide">
+ 
+    <h3>Name Form</h3>
+   
+    <pre>
+    First Name :<input [(ngModel)]="name.fname">
+    Last  Name :<input [(ngModel)]="name.lname">
+    
+    Full Name :{{name|json}} 
+    Full Name :{{name.fname}}  {{name.lname}}    
+
+    Today is :{{today}}
+    Today is :{{today|date:'dd-MMM-yyyy'}}
+    Today is :{{today|date:'shortDate'}}
+    Today is :{{today|date:'mediumDate'}}
+    Today is :{{today|date:'longDate'}}
+    Today is :{{today|date:'fullDate'}}
+    
+    Today is :{{today|date:'shortTime'}}
+    Today is :{{today|date:'mediumTime'}}
+    Today is :{{today|date:'longTime'}}
+    Today is :{{today|date:'fullTime'}}
+    
+    Today is :{{today|date:'short'}}
+    Today is :{{today|date:'medium'}}
+    Today is :{{today|date:'long'}}
+    Today is :{{today|date:'full'}}
+    
+
+
+  </pre>
+  </div>
+  
+  
+  <ng-template #invalid>
+  <div>
+  Color List Not displayed
+  </div>
+  </ng-template>
+
+
+
+
+</div>

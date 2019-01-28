@@ -1,0 +1,25 @@
+<div class="container">
+  
+      <div class="row">
+        <h2>{{title}}</h2>
+      
+        <table class="table table-hover table-bordered table-stripped table-responsive">
+          <thead>
+     <tr>
+        <th>USER ID</th>
+        <th>ALBUM ID</th>
+        <th>TITLE</th>
+        <th>VIEW PHOTOS</th>
+      </tr>
+      </thead>
+    <tbody>
+    <tr *ngFor="let p of albums">
+        <td>{{p.userId}}</td>
+        <td>{{p.id}}</td>
+        <td>{{p.title}}</td>
+        <td><input type="button"  class="btn btn-success" value="View Photos" (click)="viewphotos(t)"></td>
+     </tr>
+    </tbody>
+    </table>
+    </div>
+    </div>

@@ -1,0 +1,1 @@
+var d=new Date(20,7,11),s1="This is a Node JS",s2=new String("I like it.");s3="Softege";var p=s2.substring(0,7),q=s3.substring(0);

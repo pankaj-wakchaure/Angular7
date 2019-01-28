@@ -1,0 +1,27 @@
+<div class="container">
+  
+      <div class="row">
+        <h2>{{title}}</h2>
+      
+        <table class="table table-hover table-bordered table-stripped table-responsive">
+          <thead>
+     <tr>
+        <th>COMMENTS ID</th>
+        <th>POST ID</th>
+        <th>NAME</th>
+        <th>EMAIL</th>
+        <th>BODY</th>
+    </tr>
+        </thead>
+    <tbody>
+        <tr *ngFor="let p of comments">
+            <td>{{p.id}}</td>
+            <td>{{p.postId}}</td>
+            <td>{{p.name}}</td>
+            <td>{{p.email}}</td>
+            <td>{{p.body}}</td>
+        </tr> 
+    </tbody>
+        </table> 
+      </div>
+    </div>

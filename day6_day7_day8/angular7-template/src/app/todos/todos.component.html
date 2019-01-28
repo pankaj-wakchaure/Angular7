@@ -1,0 +1,26 @@
+<div class="container">
+  
+      <div class="row">
+        <h2>{{title}}</h2>
+      
+        <table class="table table-hover table-bordered table-stripped table-responsive">
+          <thead>
+     <tr>
+      <th>USER ID</th>
+      <th>TODOS ID</th>
+      <th>TITLE</th>
+      <th>COMPLETED</th>
+      </tr>
+      </thead>
+    <tbody>
+    <tr *ngFor="let p of todos">
+        <td>{{p.userId}}</td>
+        <td>{{p.id}}</td>
+        <td>{{p.title}}</td>
+      <td>{{p.completed}}</td>
+     </tr>
+    
+    </tbody>
+    </table>
+    </div>
+    </div>
