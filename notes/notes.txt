@@ -1,0 +1,93 @@
+-Day1 : MEAN stack
+
+
+pawsd :tplink@123
+
+
+-Day2
+-Day3: 06/01/2019
+
+--express genrator for creating projects instead : node i express
+-- npm i -g express-generator to install gererator for global
+
+-- express is framework for web projects
+-- express banking-express-app to create project
+-- npm start for starting application
+
+
+12/01/2019
+........Mongo db------------------------------
+
+-  CAP theoram mongo
+-- mongod to start server
+-- -- mongo to start client
+Mysql : username and password is password
+
+-- mongod --dbpath e:\training\data
+13/01/2019:
+
+-- To install mongo db. Install mongo db- install setup -- go inside program files -C:\Program Files\MongoDB\Server\3.2\bin
+
+--open cmd at above location..
+-- create one folder for data on drive. let say e:\training\data
+-- execute command====> mongod --dbpath e:\training\data at above path on bin folder on cmd, to start server.
+-- Once server started execute command =====> mongo
+-- To start client.
+
+-- use dbname for choosing db.
+
+
+--20/01/2019:
+Gulp and grunt are same
+Gulp:
+- to install gulp 
+---> npm i -g gulp to install globally
+
+--go insde gulp demo folder 
+-- in cmd enter gulp and intall all required packages
+
+-- npm - init to create packages.json files
+
+npm i -g @angular/cli@latest
+=>
+Gulp Commands :
+
+Type script Commands :
+=>
+---Test all gulp and ts projects
+
+****************************************
+Anjular7
+
+->To create angular project write command
+	->nj new project-name
+	it will create new project
+	
+	@component - it will be component
+	
+	** we can start only one component
+	** open will open browser automatically in package.json file
+	**components are : what to display, html, how to display
+**To create component, pipes, directives and service following are commands
+-> ng g c AngularBasics  : to create components
+
+-> ng g d
+-> ng g d
+-> ng g d
+-> ng g d
+
+take back of recycle bin of src folder
+
+
+gulp-sass gulp-minify-css gulp-minify-html gulp-concat gulp-strip-debug gulp-uglify gulp-imagemin browser-sync gulp-jshint jshint-stylish gulp-size
+
+
+Day 7:
+jsonplaceholder
+
+Day 7 kept in back up folder 
+
+8:
+ng g c UserList
+ng g c UserTable
+to create component

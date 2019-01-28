@@ -1,0 +1,32 @@
+-Day1 : MEAN stack
+-Day2
+-Day3: 06/01/2019
+
+--express genrator for creating projects instead : node i express
+-- npm i -g express-generator to install gererator for global
+
+-- express is framework for web projects
+-- express banking-express-app to create project
+-- npm start for starting application
+
+
+12/01/2019
+........Mongo db------------------------------
+
+-  CAP theoram mongo
+-- mongod to start server
+-- -- mongo to start client
+Mysql : username and password is password
+
+-- mongod --dbpath e:\training\data
+13/01/2019:
+
+-- To install mongo db. Install mongo db- install setup -- go inside program files -C:\Program Files\MongoDB\Server\3.2\bin
+
+--open cmd at above location..
+-- create one folder for data on drive. let say e:\training\data
+-- execute command====> mongod --dbpath e:\training\data at above path on bin folder on cmd, to start server.
+-- Once server started execute command =====> mongo
+-- To start client.
+
+-- use dbname for choosing db.

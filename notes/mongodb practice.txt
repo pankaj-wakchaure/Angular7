@@ -1,0 +1,211 @@
+-- create collection in db
+db.createCollection("students");
+
+-- show collections - it will show all collections in database
+
+---Inserted data into collection
+db.teachers.insert({"name":"Pradeep",age:35,address:{area:"Warje",city:"Pune"}});
+
+
+db.students.insert({"name":"Pradeep"});
+
+db.students.insert({"name":"Pradeep",age:35});
+
+db.students.insert({"name":"Pradeep",age:35,address:"Pune"});
+
+db.students.insert({"name":"Sachin",age:35,address:"Pune"});
+
+db.students.insert({"name":"Mohan",age:35,address:"Mumbai"});
+
+db.students.insert({"name":"Mahesh",age:65,address:"Mumbai"});
+
+
+-- to select collection data//like select query
+
+db.students.find();
+
+--- to slect data with proper format.
+db.students.find();
+
+----- for filtering//like where clause
+db.students.find({address:"Pune"});
+
+--- It will return first match record
+db.students.findOne({address:"Pune"});
+
+---where condition on two columns
+db.students.find({address:"Pune",age:35});
+
+
+db.students.find({address:"Pune",name:"Sachin"});
+
+
+--- or condition on two coumns like (name or address)
+db.students.find({$or:[{name:"Sachin"},{address:"Pune"}]});
+
+--- and condition on two coumns like (name and address)
+db.students.find({$and:[{name:"Sachin"},{address:"Pune"}]});
+
+-- lt : less than, lte : less than equal to
+db.students.find({age:{$lt:35}});
+
+db.students.find({age:{$lte:35}});
+-- gt: greate than/ gte: greater than equal to
+db.students.find({age:{$gte:35}});
+
+db.students.find({age:{$gt:35}});
+
+-- to dislapy  only names from collection and id should not display
+db.students.find({},{_id:0,name:1});
+
+
+db.students.find().sort({name:-1});
+
+
+
+db.students.find({age:35});
+
+--it will update only one record.
+db.students.update({age:35},{$set:{address:"Banglore"}});
+
+--it will update all one record.
+ 
+db.students.update({age:35},{$set:{address:"Banglore"}},{multi:true});
+
+-- if while updating record not found then it will create new record
+db.students.update({age:45},{$set:{address:"Solapur",name:"Ramesh"}},{upsert:true});
+
+db.students.find({"age":45});
+
+
+--- Remove record by age.
+db.students.remove({"age":45});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+db.createCollection("students");
+
+db.students.insert({"name":"Pradeep"});
+
+db.students.insert({"name":"Pradeep",age:35});
+
+db.students.insert({"name":"Pradeep",age:35,address:"Pune"});
+
+db.students.insert({"name":"Sachin",age:35,address:"Pune"});
+
+db.students.insert({"name":"Mohan",age:35,address:"Mumbai"});
+
+db.students.insert({"name":"Mahesh",age:65,address:"Mumbai"});
+
+
+db.students.find();
+
+db.students.find({address:"Pune"});
+
+db.students.findOne({address:"Pune"});
+
+
+db.students.find({address:"Pune",age:35});
+
+
+db.students.find({address:"Pune",name:"Sachin"});
+
+db.students.find({$or:[{name:"Sachin"},{address:"Pune"}]});
+
+db.students.find({$and:[{name:"Sachin"},{address:"Pune"}]});
+
+db.students.find({age:{$lt:35}});
+
+db.students.find({age:{$lte:35}});
+
+db.students.find({age:{$gte:35}});
+
+db.students.find({age:{$gt:35}});
+
+db.students.find({},{_id:0,name:1});
+
+db.students.find().sort({name:-1});
+
+
+
+db.students.find({age:35});
+
+
+db.students.update({age:35},{$set:{address:"Banglore"}});
+
+db.students.update({age:35},{$set:{address:"Banglore"}},{multi:true});
+
+db.students.update({age:45},{$set:{address:"Solapur",name:"Ramesh"}},{upsert:true});
+
+db.students.find({"age":45});
+
+db.students.remove({"age":45});
+
+
+
+
+
+
+
+
+
+
+
+
+
+============================================
+
+ {
+        "accno": 101,
+        "name": "Ram Tendulkar",
+        "balance": 12000,
+        "mobile": "4467652626",
+        "email": "R@g",
+        "pan": "pmxpc9834f",
+        "dob": "2011-11-11" }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

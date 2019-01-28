@@ -1,0 +1,6300 @@
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
+Create 2 components
+
+ng g component AccountList
+ng g component AccountTable
+
+ng g service service/Account
+
+
+ng g module list-table --routing 
+
+
+app.module.ts
+list-table-roting.module.ts
+account.service.ts
+account-table.component.ts
+account-list.component.ts
+
+
+
+
